@@ -1,1 +1,1 @@
-== Rails Sample App
+# Rails Sample App
